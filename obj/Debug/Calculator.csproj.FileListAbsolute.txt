@@ -1,0 +1,16 @@
+C:\Users\TAF\source\repos\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\TAF\source\repos\Calculator\bin\Debug\Calculator.exe
+C:\Users\TAF\source\repos\Calculator\bin\Debug\Calculator.pdb
+C:\Users\TAF\source\repos\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\TAF\source\repos\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\TAF\source\repos\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\TAF\source\repos\Calculator\obj\Debug\Calculator.exe
+C:\Users\TAF\source\repos\Calculator\obj\Debug\Calculator.pdb
+D:\DotNet\Calculator\bin\Debug\Calculator.exe.config
+D:\DotNet\Calculator\bin\Debug\Calculator.exe
+D:\DotNet\Calculator\bin\Debug\Calculator.pdb
+D:\DotNet\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\DotNet\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+D:\DotNet\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\DotNet\Calculator\obj\Debug\Calculator.exe
+D:\DotNet\Calculator\obj\Debug\Calculator.pdb
